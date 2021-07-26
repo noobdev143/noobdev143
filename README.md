@@ -9,8 +9,8 @@
 - 🌱Currently Learning New Things....
 - 👯I'm Looking to Collaborate with Other Developers
 - 🥅2021 Goals : Be The Good Developer And Good Human Being.
-- 📫 Please email via kavinisarg@gmail.com to reach me.
-- ⚡Fun Fact : I Love Music
+- 📫 Please email via thenoobdev143@gmail.com to reach me.
+- ⚡Fun Fact : I Love coding
 
 <img align="right" alt="GIF" src="https://github.com/DrChamp1/DrChamp1/blob/main/code.gif?raw=true" width="480" height="320" />
 
